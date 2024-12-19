@@ -1,7 +1,9 @@
 body{margin: 20px;
 text-align: center;
-font-family: Georgia, 'Times New Roman', Times, serif;}
+font-family: Georgia, 'Times New Roman', Times, serif;
+background-color: rgb(239, 239, 182);}
 
 h1{color: rgb(49, 49, 163);}
 h2{color: rgb(59, 59, 90);}
-img{max-width: 40%;}
+img{max-width: 40%;
+border-radius: 30px;}
